@@ -10,5 +10,5 @@
 
 **Bold** and _Italic_ and `Code` text
 
-[v1](https://tatiananazarenko.github.io/PN--DS/Wnt_1st_2nd_Neiborhood.html) and ![Image](src)
+[v1](/Wnt_1st_2nd_Neiborhood.html) and ![Image](src)
 [v2](https://tatiananazarenko.github.io/PN--DS/Wnt_1st_2nd_Neiborhood.html) and ![Image](src)
