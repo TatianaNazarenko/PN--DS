@@ -1,6 +1,8 @@
 # Parenclitic Results - DS
 
 ## Details of M-control Genes-Network
+
+[M-control: Family members](https://tatiananazarenko.github.io/PN--DS/M_control_fam.md)
 [M-control Genes-Network](https://tatiananazarenko.github.io/PN--DS/M_PN.html)
 ### Bonus: Wnt-signaling pathway
 [Wnt-signaling patway with 1st and 2nd Neighborhood](https://tatiananazarenko.github.io/PN--DS/Wnt_1st_2nd_Neiborhood.html)
