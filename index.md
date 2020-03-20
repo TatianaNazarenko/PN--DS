@@ -2,7 +2,7 @@
 
 ## Details of M-control Genes-Network
 
-[M-control: Family members](https://tatiananazarenko.github.io/PN--DS/M_control_fam.html)
+[M-control: Family members](https://tatiananazarenko.github.io/PN--DS/M_f.png)
 
 [M-control Genes-Network](https://tatiananazarenko.github.io/PN--DS/M_PN.html)
 ### Bonus: Wnt-signaling pathway
