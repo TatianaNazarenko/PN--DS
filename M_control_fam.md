@@ -1,29 +1,42 @@
-![1](MasC_examples_family_1.png)
-![2](MasC_examples_family_2.png)
-![3](MasC_examples_family_3.png)
-![4](MasC_examples_family_4.png)
-![5](MasC_examples_family_5.png)
-![6](MasC_examples_family_6.png)
-![7](MasC_examples_family_7.png)
-![8](MasC_examples_family_8.png)
-![9](MasC_examples_family_9.png)
-![10](MasC_examples_family_10.png)
-![11](MasC_examples_family_11.png)
-![12](MasC_examples_family_12.png)
-![13](MasC_examples_family_13.png)
-![14](MasC_examples_family_14.png)
-![15](MasC_examples_family_15.png)
-![16](MasC_examples_family_16.png)
-![17](MasC_examples_family_17.png)
-![18](MasC_examples_family_18.png)
-![19](MasC_examples_family_19.png)
-![20](MasC_examples_family_20.png)
-![21](MasC_examples_family_21.png)
-![22](MasC_examples_family_22.png)
-![23](MasC_examples_family_23.png)
-![24](MasC_examples_family_24.png)
-![25](MasC_examples_family_25.png)
-![26](MasC_examples_family_26.png)
-![27](MasC_examples_family_27.png)
-![28](MasC_examples_family_28.png)
-![29](MasC_examples_family_29.png)
+<!doctype html>
+<html>
+    <head>
+    </head>
+    <body>
+      <figure><img src="MasC_examples_family_1.png" alt="M-1"></figure>
+      <figure><img src="MasC_examples_family_2.png" alt="M-2"></figure>
+      <figure><img src="MasC_examples_family_3.png" alt="M-3"></figure>
+      <figure><img src="MasC_examples_family_4.png" alt="M-4"></figure>
+      <figure><img src="MasC_examples_family_5.png" alt="M-5"></figure>
+      <figure><img src="MasC_examples_family_6.png" alt="M-6"></figure>
+      <figure><img src="MasC_examples_family_7.png" alt="M-7"></figure>
+      <figure><img src="MasC_examples_family_8.png" alt="M-8"></figure>
+      <figure><img src="MasC_examples_family_9.png" alt="M-9"></figure>
+      <figure><img src="MasC_examples_family_10.png" alt="M-10"></figure>
+      <figure><img src="MasC_examples_family_11.png" alt="M-11"></figure>
+      <figure><img src="MasC_examples_family_12.png" alt="M-12"></figure>
+      <figure><img src="MasC_examples_family_13.png" alt="M-13"></figure>
+      <figure><img src="MasC_examples_family_14.png" alt="M-14"></figure>
+      <figure><img src="MasC_examples_family_15.png" alt="M-15"></figure>
+      <figure><img src="MasC_examples_family_16.png" alt="M-16"></figure>
+      <figure><img src="MasC_examples_family_17.png" alt="M-17"></figure>
+      <figure><img src="MasC_examples_family_18.png" alt="M-18"></figure>
+      <figure><img src="MasC_examples_family_19.png" alt="M-19"></figure>
+      <figure><img src="MasC_examples_family_20.png" alt="M-20"></figure>
+      <figure><img src="MasC_examples_family_21.png" alt="M-21"></figure>
+      <figure><img src="MasC_examples_family_22.png" alt="M-22"></figure>
+      <figure><img src="MasC_examples_family_23.png" alt="M-23"></figure>
+      <figure><img src="MasC_examples_family_24.png" alt="M-24"></figure>
+      <figure><img src="MasC_examples_family_25.png" alt="M-25"></figure>
+      <figure><img src="MasC_examples_family_26.png" alt="M-26"></figure>
+      <figure><img src="MasC_examples_family_27.png" alt="M-27"></figure>
+      <figure><img src="MasC_examples_family_28.png" alt="M-28"></figure>
+      <figure><img src="MasC_examples_family_29.png" alt="M-29"></figure>
+    </body>
+</html>
+
+
+
+
+
+
