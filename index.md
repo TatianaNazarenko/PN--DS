@@ -2,7 +2,7 @@
 
 ## Details of M-control Network
 
-M-control Parenclitic Network](https://tatiananazarenko.github.io/PN--DS/M_PN.html)
+[M-control Parenclitic Network](https://tatiananazarenko.github.io/PN--DS/M_PN.html)
 
 ## Details of S-control Network
 
